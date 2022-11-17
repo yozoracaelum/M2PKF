@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:55714863
+NODE:I LEVEL:0 LINE:24 "D:\D\cvavr\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:25 "D:\D\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "D:\D\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "D:\D\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:28 "D:\D\cvavr\inc\io.h"
+NODE:I LEVEL:0 LINE:30 "D:\D\cvavr\inc\alcd.h"
+NODE:F LEVEL:0 LINE:34 "set_pwm(int fase)"
+NODE:F LEVEL:0 LINE:40 "main(void)"
